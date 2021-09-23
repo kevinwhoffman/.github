@@ -1,5 +1,5 @@
 ---
-name: "08 - Test 🔒"
+name: "09 - Security 🔒"
 about: "Ensures a job can be achieved without compromising the safety of the surrounding system"
 title: "[Untested functionality] [should | should not]..."
 labels: "Type: Test"
